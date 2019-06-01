@@ -142,6 +142,7 @@ extern "C"{
 #define LAYOUT_SERBIAN_LATIN_ONLY	0x19
 #define LAYOUT_HUNGARIAN    0x1A
 #define LAYOUT_DVORAK    0x1B
+#define LAYOUT_COLEMAK    0x1C
 
 
 // http://en.wikipedia.org/wiki/Keyboard_layout
